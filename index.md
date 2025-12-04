@@ -4,7 +4,7 @@ Hello! I am a computer engineering major at CSUF and I plan on graduating in 202
 
 My GitHub Page is (https://github.com/emileed0)
 
-# Favorite CPSC-120L Labs
+## Favorite CPSC-120L Labs
 
 * Lab 1
 
