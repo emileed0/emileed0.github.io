@@ -19,6 +19,6 @@ My GitHub Page is <https://github.com/emileed0>
 
 * Lab 11 Part 1 
 
-    I enjoyed this lab because although it was very complex, it had repetitive steps of implementing functions such as accessors, constructors, and how they worked together inside a class allowing me to truly understand and practice it. I also liked seeing how much the program really relied on the demographics CSV file because the code was using that data to get the numbers that were needed to calculate the population density for a certain state. This lab helped me understand the class design, by setting up a class with the correct data and functions which allows the program to use the right calculations to produce the population's densities. 
+    I enjoyed this lab because although it was very complex, it had repetitive steps of implementing functions such as the accessors, constructors, and how they worked together inside a class allowing me to truly understand and practice it. I also liked seeing how much the program really relied on the demographics CSV file because the code was using that data to get the numbers that were needed to calculate the population density for a certain state. This lab helped me understand the class design, by setting up a class with the correct data and functions which allows the program to use the right calculations to produce the population's densities. 
 
 
