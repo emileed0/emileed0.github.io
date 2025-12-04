@@ -2,6 +2,8 @@
  
 Hello! I am a computer engineering major at CSUF and I plan on graduating in 2029. 
 
+(https://github.com/emileed0)
+
 # Favorite CPSC-120L Labs
 
 ## Lab 1
